@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Test of github pages
 
 You can use the [editor on GitHub](https://github.com/martinbonnin/martinbonnin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
